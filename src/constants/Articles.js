@@ -210,7 +210,7 @@ const articles = [
         preview: `You only have to add a preview for the article closest to the top of the file`,
         image: artOfLastMinuteCraming,
         name: '2025-02-14-Art-Of-Last-Minute-Cramming'
-    },
+    },// comment
     {
         author: 'Nadine Telesford',
         date: '2025-02-14',
