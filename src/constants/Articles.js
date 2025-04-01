@@ -148,6 +148,12 @@ import artOfLastMinuteCraming from '../assets/images/2025-02-14-art-of-last-minu
 import isBookTokRuiningLiterature from '../assets/images/2025-02-14-is-booktok-ruining-literature.jpg'
 import flipperFoodReview from '../assets/images/2025-02-14-flippers-food-review.jpg'
 import BeaconFebruary2025Issue from '../assets/images/2025-02-14-beacon-february2025-image.png'
+import BeaconApril2025Issue from '../assets/images/2025-04-01-Bacon-April-2025.png'
+import April2025XWordAnswers from '../assets/images/Val-BeaconXW-answers2025.png'
+import TeachersFakeCoaching from '../assets/images/2025-04-01-Teachers-Fake-Coaching.jpg'
+import BearMythLegend from '../assets/images/2025-04-01-TheBear-TheMyth-TheLegend.jpg'
+import MrGarrisonChallenge from '../assets/images/2025-04-01-MrGarrisonChallengeMarathon.jpg'
+import ArtOfPlaylist from '../assets/images/2025-04-01-Art-Of-Playlist.jpg'
 // import  from '../assets/images/.jpg'
 // import  from '../assets/images/.jpg'
 // import  from '../assets/images/.jpg'
@@ -155,7 +161,111 @@ import BeaconFebruary2025Issue from '../assets/images/2025-02-14-beacon-february
 // import  from '../assets/images/.jpg'
 
 const articles = [
-        {
+    // {
+    //     author: 'Madeline Wallcraft',
+    //     date: '2025-04-01',
+    //     title: 'Teachers (Fake) Coaching',
+    //     preview: ``,
+    //     image: TeachersFakeCoaching,
+    //     name: ''
+    // }, 
+    // {
+    //     author: '',
+    //     date: '2025-04-01',
+    //     title: '',
+    //     preview: ``,
+    //     image: Default,
+    //     name: ''
+    // }, 
+    // {
+    //     author: 'Ishani Patel',
+    //     date: '2025-04-01',
+    //     title: 'A Dramafest Indeed',
+    //     preview: ``,
+    //     image: Default,
+    //     name: ''
+    // }, 
+    {
+        author: 'Beacon Editors',
+        date: '2025-04-01',
+        title: 'X-Word Answers April Fools\' 2025',
+        preview: ``,
+        image: April2025XWordAnswers,
+        name: ''
+    },
+    // {
+    //     author: 'Christine Emeka-Nnegha',
+    //     date: '2025-04-01',
+    //     title: 'The Bear, The Myth, The Legend: Marty Unravelled',
+    //     preview: ``,
+    //     image: BearMythLegend,
+    //     name: ''
+    // }, 
+    // // {
+    //     author: 'Beacon Editors',
+    //     date: '2025-04-01',
+    //     title: 'Beacon April Fools\' Issue - PDF',
+    //     preview: ``,
+    //     image: BeaconApril2025Issue,
+    //     name: ''
+    // }, 
+    // {
+    //     author: 'Kim Nguyen',
+    //     date: '2025-04-01',
+    //     title: 'Social Media is Ruining Our Lives',
+    //     preview: ``,
+    //     image: Default,
+    //     name: ''
+    // }, 
+    // {
+    //     author: 'Zoe Savic-Jovcic',
+    //     date: '2025-04-01',
+    //     title: 'Not So Funny: On Comedy and Cancellation',
+    //     preview: ``,
+    //     image: Default,
+    //     name: ''
+    // }, 
+    // {
+    //     author: 'Aleeza Alvi ',
+    //     date: '2025-04-01',
+    //     title: 'MCI\'s MSA Iftar',
+    //     preview: ``,
+    //     image: Default,
+    //     name: ''
+    // }, 
+    // {
+    //     author: 'Zoe Savic-Jovcic',
+    //     date: '2025-04-01',
+    //     title: 'Books Galore! The Return of an MCI Tradition',
+    //     preview: ``,
+    //     image: Default,
+    //     name: ''
+    // }, 
+    // {
+    //     author: 'Archana Arulthas',
+    //     date: '2025-04-01',
+    //     title: 'Mr. Garrison’s Challenge: A Marathon for a Greater Cause',
+    //     preview: ``,
+    //     image: MrGarrisonChallenge,
+    //     name: ''
+    // }, 
+    // {
+    //     author: 'Julia Wu',
+    //     date: '2025-04-01',
+    //     title: 'The Art of the Playlist and Why You Should Make More of Them',
+    //     preview: ``,
+    //     image: ArtOfPlaylist,
+    //     name: ''
+    // }, 
+    // // {
+    //     author: '',
+    //     date: '2025-04-01',
+    //     title: '',
+    //     preview: ``,
+    //     image: Default,
+    //     name: ''
+    // }, 
+    {
         author: 'Rayyan Ali', // the double slashes makes a comment that has no effect on the code, leave this as the preview article and edit the data for all those that say author is name here
         date: '2025-02-14',
         title: 'FOMO is Overrated',
@@ -182,7 +292,7 @@ const articles = [
     {
         author: 'Beacon Editors',
         date: '2025-02-14',
-        title: 'Beacon Valentine\'s issue - PDF',
+        title: 'Beacon Valentine\'s Issue - PDF',
         preview: `To view a PDF version of our Valentine's Beacon Issue, click here.`,
         image: BeaconFebruary2025Issue,
         name: '2025-02-14-Beacon-February2025-Issue'

@@ -162,11 +162,12 @@ const Article = ({ article, allPostsData }) => {
         </div>
         {article.image && (article.image.toString().substring(0,22) !== "/assets/beaconnamelogo"&&article.image.toString().substring(0,33) !== "/src/assets/images/beaconnamelogo") && 
           article.image.trim() !== "" && (
-            <img
-              src={article.image}
-              className="mt-[2%] ml-[10%] article-image-page max-h-[10%]"
-              alt="Article Image"
-            />
+  <img
+    src={article.image}
+    className="mt-[2%] ml-[10%] article-image-page h-auto max-h-[300px] object-contain"
+    alt="Article Image"
+  />
+
           )}
       </div>
       <div className="articleContent mt-[2%] ml-[10%] max-w-[60%] text-left">
