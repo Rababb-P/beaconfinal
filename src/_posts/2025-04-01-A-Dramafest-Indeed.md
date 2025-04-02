@@ -1,0 +1,11 @@
+**Every year, the National Theatre School of Canada hosts Dramafest**, a competition created to highlight creative and amazing theatrical productions from high school students across the country. This year, in line with school tradition, Martingrove performed and hosted three of the Toronto West District performances: *“Where We Are All Okay”* by Martingrove C.I., *“Life After Death”* by Kipling C.I., and *“Nothing Is What It Seems”* by Father Henry Carr C.S.S.. Martingrove also had the honor of hosting the Toronto West District Award Ceremony for Dramafest 2025, which was an absolute Dramafest indeed (kidding!).  
+
+  
+
+The day of the performance, Martingrove’s MSC was alive with nervous energy, to say the least. With a play co-written by Ishani Patel (author of this article) and Sophia Yun (who also took on the role of director), stage managed by Zoe Savic-Jovcic, and brought to life by an amazing cast and crew, we wanted to do the best we could. Set in a small shipping business, the play focused on the hardships of two business owners and the family they had built in this business. The play deals with themes of immigration, money troubles and sudden health issues. After performing the play and watching the other incredible performances, we were given really helpful advice from the Toronto West District Adjudicator Rose Tuong, which concluded the second day of the Toronto West District Dramafest.  
+
+  
+
+The awards night was highly anticipated by all 11 competing schools. Cast and crew alike buzzed with excitement, adrenaline still running from the previous week's performances. The award ceremony began typically, until our Adjudicator Rose Tuong called everyone up on stage for a quick dance party before announcing the awards. For this year's performance, Martingrove earned the “Most Creative Concept” Award, and Savic-Jovcic was presented with the “MVP” Award by our very own Ms. Keane. The night ended with the announcement of this year's Outstanding Productions, who moved on to the Regional level of the competition. We at Martingrove would like to congratulate all the schools who moved on, and wish them the best of luck! We can’t wait to start planning for next year, and we hope to see you all there for another great Dramafest!
+
+

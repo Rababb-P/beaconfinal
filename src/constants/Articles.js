@@ -161,30 +161,30 @@ import ArtOfPlaylist from '../assets/images/2025-04-01-Art-Of-Playlist.jpg'
 // import  from '../assets/images/.jpg'
 
 const articles = [
-    // {
-    //     author: 'Madeline Wallcraft',
-    //     date: '2025-04-01',
-    //     title: 'Teachers (Fake) Coaching',
-    //     preview: ``,
-    //     image: TeachersFakeCoaching,
-    //     name: ''
-    // }, 
-    // {
-    //     author: '',
-    //     date: '2025-04-01',
-    //     title: '',
-    //     preview: ``,
-    //     image: Default,
-    //     name: ''
-    // }, 
-    // {
-    //     author: 'Ishani Patel',
-    //     date: '2025-04-01',
-    //     title: 'A Dramafest Indeed',
-    //     preview: ``,
-    //     image: Default,
-    //     name: ''
-    // }, 
+    {
+        author: 'Madeline Wallcraft',
+        date: '2025-04-01',
+        title: 'Teachers (Fake) Coaching',
+        preview: ``,
+        image: TeachersFakeCoaching,
+        name: '2025-04-01-Teachers-Fake-Coaching'
+     }, 
+ {
+        author: '',
+        date: '2025-04-01',
+        title: '',
+        preview: ``,
+        image: Default,
+        name:'2025-04-01-There-Is-No-Article' 
+    }, 
+    {
+        author: 'Ishani Patel',
+        date: '2025-04-01',
+        title: 'A Dramafest Indeed',
+        preview: ``,
+        image: Default,
+        name: '2025-04-01-A-Dramafest-Indeed'
+    }, 
     {
         author: 'Beacon Editors',
         date: '2025-04-01',
@@ -193,14 +193,14 @@ const articles = [
         image: April2025XWordAnswers,
         name: ''
     },
-    // {
-    //     author: 'Christine Emeka-Nnegha',
-    //     date: '2025-04-01',
-    //     title: 'The Bear, The Myth, The Legend: Marty Unravelled',
-    //     preview: ``,
-    //     image: BearMythLegend,
-    //     name: ''
-    // }, 
+    {
+        author: 'Christine Emeka-Nnegha',
+        date: '2025-04-01',
+        title: 'The Bear, The Myth, The Legend: Marty Unravelled',
+        preview: ``,
+        image: BearMythLegend,
+        name: '2025-04-01-The-Bear-The-Myth-The-Legend'
+    }, 
     // // {
     //     author: 'Beacon Editors',
     //     date: '2025-04-01',
@@ -209,55 +209,55 @@ const articles = [
     //     image: BeaconApril2025Issue,
     //     name: ''
     // }, 
+    {
+        author: 'Kim Nguyen',
+        date: '2025-04-01',
+        title: 'Social Media is Ruining Our Lives',
+        preview: ``,
+        image: Default,
+        name: '2025-04-01-Social-Media-Is-Ruining-Our-Lives'
+    }, 
+    {
+        author: 'Zoe Savic-Jovcic',
+        date: '2025-04-01',
+        title: 'Not So Funny: On Comedy and Cancellation',
+        preview: ``,
+        image: Default,
+        name: '2025-04-01-Not-So-Funny'
+    }, 
+    {
+        author: 'Aleeza Alvi ',
+        date: '2025-04-01',
+        title: 'MCI\'s MSA Iftar',
+        preview: ``,
+        image: Default,
+        name: '2025-04-01-MCI-Iftar'
+    }, 
+    {
+        author: 'Zoe Savic-Jovcic',
+        date: '2025-04-01',
+        title: 'Books Galore! The Return of an MCI Tradition',
+        preview: ``,
+        image: Default,
+        name: '2025-04-01-Books-Galore'
+    }, 
+    {
+        author: 'Archana Arulthas',
+        date: '2025-04-01',
+        title: 'Mr. Garrison’s Challenge: A Marathon for a Greater Cause',
+        preview: ``,
+        image: MrGarrisonChallenge,
+        name: '2025-04-01-Garrisons-Challenge'
+    }, 
+    {
+        author: 'Julia Wu',
+        date: '2025-04-01',
+        title: 'The Art of the Playlist and Why You Should Make More of Them',
+        preview: ``,
+        image: ArtOfPlaylist,
+        name: '2025-04-01-The-Art-Of-The-Playlist'
+    }, 
     // {
-    //     author: 'Kim Nguyen',
-    //     date: '2025-04-01',
-    //     title: 'Social Media is Ruining Our Lives',
-    //     preview: ``,
-    //     image: Default,
-    //     name: ''
-    // }, 
-    // {
-    //     author: 'Zoe Savic-Jovcic',
-    //     date: '2025-04-01',
-    //     title: 'Not So Funny: On Comedy and Cancellation',
-    //     preview: ``,
-    //     image: Default,
-    //     name: ''
-    // }, 
-    // {
-    //     author: 'Aleeza Alvi ',
-    //     date: '2025-04-01',
-    //     title: 'MCI\'s MSA Iftar',
-    //     preview: ``,
-    //     image: Default,
-    //     name: ''
-    // }, 
-    // {
-    //     author: 'Zoe Savic-Jovcic',
-    //     date: '2025-04-01',
-    //     title: 'Books Galore! The Return of an MCI Tradition',
-    //     preview: ``,
-    //     image: Default,
-    //     name: ''
-    // }, 
-    // {
-    //     author: 'Archana Arulthas',
-    //     date: '2025-04-01',
-    //     title: 'Mr. Garrison’s Challenge: A Marathon for a Greater Cause',
-    //     preview: ``,
-    //     image: MrGarrisonChallenge,
-    //     name: ''
-    // }, 
-    // {
-    //     author: 'Julia Wu',
-    //     date: '2025-04-01',
-    //     title: 'The Art of the Playlist and Why You Should Make More of Them',
-    //     preview: ``,
-    //     image: ArtOfPlaylist,
-    //     name: ''
-    // }, 
-    // // {
     //     author: '',
     //     date: '2025-04-01',
     //     title: '',
