@@ -6,7 +6,8 @@ Since his arrival at MCI 58 years ago, Marty has been everywhere. According to M
   
 
 Our principal, Ms. Thornton, sees Marty as an important part of MCI as well, believing that  “Marty brings everyone together, is welcoming to all, supports school spirit and no matter who wears the bear costume, Marty is the same from year to year, generation to generation. Students seem to love that Marty doesn’t speak, welcomes connections with everyone, is funny and that no-one is exactly sure who is inside the costume.” Marty was designed to be a symbol for everyone—which is why I guess things got a little complicated when Martha was introduced.  
- 
+  
+  
 For one pep rally last year, MCI introduced Martha (Marty’s Sister). She had the same school spirit, the same enthusiasm for uplifting students and staff, but not the same big bear suit. Because, for some reason… she was a mouse. I wish I could tell you why. I really do. But I’m just as confused. Whatever the reason, her time here at this school didn’t last very long. According to Ms. Thornton, this was because some students and staff felt introducing her wasn’t a good move.  
 
   
@@ -18,7 +19,7 @@ For the most part, our school community is in favour of Marty. According to Mia 
 However, not everyone is a fan. One student I’ve interviewed had a different take: “I need him to be more like Cosmo the Cougar. I get that he’s not a uni mascot, but there are certain expectations that need to be met.” Curious, I looked Cosmo up—he jumped through a literal ring of fire. So yeah… maybe Marty could step it up a little. Another student admitted, “Marty is scary…there’s just this aura I can’t describe.” And you know what? I get it. As much as I praise Marty, I also can’t look him in those big, beady eyes, for fear that he’ll stare into my soul and discover that I haven’t done my homework!  
 
   
-Here’s the thing—out of everybody I’ve interviewed, nobody *really* hates Marty. Whether he’s cheering at events, dancing at pep rallies, or giving out high fives, Marty has made MCI a stronger, more connected school community. He continues to dedicate himself to his original mission, and for that, we can only appreciate him.
-	
-
-
+Here’s the thing—out of everybody I’ve interviewed, nobody *really* hates Marty. Whether he’s cheering at events, dancing at pep rallies, or giving out high fives, Marty has made MCI a stronger, more connected school community. He continues to dedicate himself to his original mission, and for that, we can only appreciate him.  
+  
+  
+&nbsp;

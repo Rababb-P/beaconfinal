@@ -1,8 +1,9 @@
 **“What’s your high score on Block Blast?”**
 “She’s lowkey chuzz bro, don’t do it.”
 “My thunder thighs are so ugly, I wish I had a thigh gap.”
-“Should I call it? It’s been three months.”
-
+“Should I call it? It’s been three months.”  
+  
+  
 The phrases stated above are realistic examples from my personal experience of what social media has done to today’s youth. Extreme beauty standards, conflicting and somewhat “playful” standards on love and relationships, and the “trend hopping addiction” are the damaging side effects of social media many of us have unfortunately succumbed to. Simultaneously, social media is all-knowing, scary, and fun. What is the algorithm and is it listening and watching your every move?  
 
   

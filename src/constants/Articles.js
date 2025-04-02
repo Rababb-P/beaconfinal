@@ -170,9 +170,9 @@ const articles = [
         name: '2025-04-01-Teachers-Fake-Coaching'
      }, 
  {
-        author: '',
+        author: 'Anonymous',
         date: '2025-04-01',
-        title: '',
+        title: 'There Is No Article',
         preview: ``,
         image: Default,
         name:'2025-04-01-There-Is-No-Article' 
@@ -201,14 +201,14 @@ const articles = [
         image: BearMythLegend,
         name: '2025-04-01-The-Bear-The-Myth-The-Legend'
     }, 
-    // // {
-    //     author: 'Beacon Editors',
-    //     date: '2025-04-01',
-    //     title: 'Beacon April Fools\' Issue - PDF',
-    //     preview: ``,
-    //     image: BeaconApril2025Issue,
-    //     name: ''
-    // }, 
+    {
+        author: 'Beacon Editors',
+        date: '2025-04-01',
+        title: 'Beacon April Fools\' Issue - PDF',
+        preview: ``,
+        image: BeaconApril2025Issue,
+        name: '2025-04-01-Beacon-April2025-Issue'
+    }, 
     {
         author: 'Kim Nguyen',
         date: '2025-04-01',
