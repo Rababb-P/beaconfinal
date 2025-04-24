@@ -796,19 +796,19 @@ In the spirit of Halloween, I instinctively turned to MCI’s most frightening t
         content: '',
         name: '2023-02-15-Teacher_Interview_Mr._Reardon'
     },
-    {
-        author: 'Noah Park',
-        authortag: 'npark',
-        date: '2023-02-15',
-        title: 'Snowboarding is the… Imperfect Winter Sport',
-        preview: `I have a confession to make - in my eyes, snowboarding is the imperfect
-        winter sport. On mountain resorts that have been built to suit skiers
-        for over a century, the latecomer, snowboarding...`,
-        image: Default,
-        content: '',
-        name: '2023-02-15-Snowboarding_is_the..._Imperfect_Winter_Sport'
+    // {
+    //     author: 'Noah Park',
+    //     authortag: 'npark',
+    //     date: '2023-02-15',
+    //     title: 'Snowboarding is the… Imperfect Winter Sport',
+    //     preview: `I have a confession to make - in my eyes, snowboarding is the imperfect
+    //     winter sport. On mountain resorts that have been built to suit skiers
+    //     for over a century, the latecomer, snowboarding...`,
+    //     image: Default,
+    //     content: '',
+    //     name: '2023-02-15-Snowboarding_is_the..._Imperfect_Winter_Sport'
 
-    },
+    // },
     {
         author: 'Skyler Xiang',
         authortag: 'sxiang',
