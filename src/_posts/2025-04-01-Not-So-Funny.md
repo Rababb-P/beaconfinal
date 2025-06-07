@@ -6,9 +6,9 @@ These comedians seem thoroughly undecided; are they free-speech crusaders fighti
 
   
 
-For a seemingly harmless art, comedy certainly involves a lot of punching. *Punchlines*—the crux of any good joke—imply that someone is always at the sharp end of a metaphorical sword, and that execution serves as the basis for public entertainment. Unfortunately, when sensitive topics such as race or LGBTQ+ identities are introduced, these jokes can feel like yet another punch in the face to populations already suffering from societal prejudices. Offensive humour often fails in its quest to shock and defy norms—precisely because it plays into oft-repeated stereotypes and thus doesn’t break the status quo, only reestablishes it.
-
-
+For a seemingly harmless art, comedy certainly involves a lot of punching. *Punchlines*—the crux of any good joke—imply that someone is always at the sharp end of a metaphorical sword, and that execution serves as the basis for public entertainment. Unfortunately, when sensitive topics such as race or LGBTQ+ identities are introduced, these jokes can feel like yet another punch in the face to populations already suffering from societal prejudices. Offensive humour often fails in its quest to shock and defy norms—precisely because it plays into oft-repeated stereotypes and thus doesn’t break the status quo, only reestablishes it.  
+  
+  
 
 It also begs the question: if comedians reserve the right to make potentially offensive jokes that target various (often marginalized) groups, then why should the same courtesy not be granted to those people-turned-punchlines when they choose to criticize them? By chastising so-called “keyboard warriors” and assuming victimhood, the likes of Rife and Chappelle ignore that their critics are simply engaging in the same freedom of speech that they so ardently claim to defend. For the sake of my word count, let us sidestep the philosophical debate of what should be protected under freedom of speech entirely. I often find myself perplexed in the face of a “cancelled” comedian’s tangents.  
 

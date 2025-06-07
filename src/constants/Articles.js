@@ -259,10 +259,10 @@ const articles = [
         image: TeachersFakeCoaching,
         name: '2025-'
      }, 
-     {
+  {
         author: '',
         date: '2025-04-01',
-        title: '',
+        title: 'There Is No Article',
         preview: ``,
         image: Default,
         name:'2025-04-01-There-Is-No-Article' 
@@ -291,14 +291,14 @@ const articles = [
         image: BearMythLegend,
         name: '2025-04-01-The-Bear-The-Myth-The-Legend'
     }, 
-    // // {
-    //     author: 'Beacon Editors',
-    //     date: '2025-04-01',
-    //     title: 'Beacon April Fools\' Issue - PDF',
-    //     preview: ``,
-    //     image: BeaconApril2025Issue,
-    //     name: ''
-    // }, 
+    {
+        author: 'Beacon Editors',
+        date: '2025-04-01',
+        title: 'Beacon April Fools\' Issue - PDF',
+        preview: ``,
+        image: BeaconApril2025Issue,
+        name: '2025-04-01-Beacon-April2025-Issue'
+    }, 
     {
         author: 'Kim Nguyen',
         date: '2025-04-01',
@@ -886,19 +886,19 @@ In the spirit of Halloween, I instinctively turned to MCI’s most frightening t
         content: '',
         name: '2023-02-15-Teacher_Interview_Mr._Reardon'
     },
-    {
-        author: 'Noah Park',
-        authortag: 'npark',
-        date: '2023-02-15',
-        title: 'Snowboarding is the… Imperfect Winter Sport',
-        preview: `I have a confession to make - in my eyes, snowboarding is the imperfect
-        winter sport. On mountain resorts that have been built to suit skiers
-        for over a century, the latecomer, snowboarding...`,
-        image: Default,
-        content: '',
-        name: '2023-02-15-Snowboarding_is_the..._Imperfect_Winter_Sport'
+    // {
+    //     author: 'Noah Park',
+    //     authortag: 'npark',
+    //     date: '2023-02-15',
+    //     title: 'Snowboarding is the… Imperfect Winter Sport',
+    //     preview: `I have a confession to make - in my eyes, snowboarding is the imperfect
+    //     winter sport. On mountain resorts that have been built to suit skiers
+    //     for over a century, the latecomer, snowboarding...`,
+    //     image: Default,
+    //     content: '',
+    //     name: '2023-02-15-Snowboarding_is_the..._Imperfect_Winter_Sport'
 
-    },
+    // },
     {
         author: 'Skyler Xiang',
         authortag: 'sxiang',
