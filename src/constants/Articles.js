@@ -154,22 +154,112 @@ import TeachersFakeCoaching from '../assets/images/2025-04-01-Teachers-Fake-Coac
 import BearMythLegend from '../assets/images/2025-04-01-TheBear-TheMyth-TheLegend.jpg'
 import MrGarrisonChallenge from '../assets/images/2025-04-01-MrGarrisonChallengeMarathon.jpg'
 import ArtOfPlaylist from '../assets/images/2025-04-01-Art-Of-Playlist.jpg'
-// import  from '../assets/images/.jpg'
-// import  from '../assets/images/.jpg'
+import UrbanPhotography from '../assets/images/2026-06-01-UrbanPhotography.jpg'
+import Lifetogetherthisummer from '../assets/images/2025-06-01-Lifetogetherthisummer.jpg'
 // import  from '../assets/images/.jpg'
 // import  from '../assets/images/.jpg'
 // import  from '../assets/images/.jpg'
 
-const articles = [
+const articles = [ 
+{
+        author: 'Julia Wu',
+        date: '2025-06-01',
+        title: 'Conversations With former Editors-In-Chief',
+        preview: ``,
+        image: Default,
+        name: '2025-06-01-Conversations-With-Former-Editors-In-Chief'
+    },
+
+      {
+        author: 'Kaiden Tanka',
+        date: '2025-06-01',
+        title: 'Fun in the Sun',
+        preview: ``,
+        image: Default,
+        name: '2025-06-01-Fun-in-the-Sun'
+    },
+    {
+        author: 'Rayyan Ali',
+        date: '2025-06-01',
+        title: 'You Dont Have Your life Together This Summer (No One Does)',
+        preview: ``,
+        image: Lifetogetherthisummer,
+        name: '2025-06-01-You-Dont-Have-Your-Life-Together'
+    },
+    {
+        author: 'Kim N & Archana A',
+        date: '2025-06-01',
+        title: 'MCI Wrapped',
+        preview: ``,
+        image: Default,
+        name: '2025-06-01-MCI-Wrapped'
+    },
+    {
+        author: 'Ethan Lin',
+        date: '2025-06-01',
+        title: 'Please Dont Eat Your Wildflowers This Summer- Their DISCUSTING. Read Why:',
+        preview: ``,
+        image: Default,
+        name: '2025-06-01-Dont-Eat-Wildflowers'
+    },
+    {
+        author: 'Arun Devan',
+        date: '2025-06-01',
+        title: 'Innovation in Ontario:My Interview with Claudia Krywiak, CEO of the Ontario Centre of Innovation',
+        preview: ``,
+        image: Default,
+        name: '2025-06-01-Innovation-in-Ontario'
+    },
+    {
+        author: 'Noah Park',
+        date: '2025-06-01',
+        title: 'A Guide to Urban Photography',
+        preview: ``,
+        image:UrbanPhotography,
+        name: '2025-06-01-Guide-to-Urban-Photography' 
+    },
+    {
+        author: 'Zoe Savic-Jovcic',
+        date: '2025-06-01',
+        title: '"Glow up" Culture',
+        preview: ``,
+        image: Default,
+        name: '2025-06-01-Glow-up-Culture'
+    },
+    {
+        author: 'Dhruv Patel',
+        date: '2025-06-01',
+        title: 'Screenless Summer',
+        preview: ``,
+        image: Default,
+        name: '2025-06-01-Screenless-Summer'
+    },
+    {
+        author: 'Rababb Pannu',
+        date: '2025-06-01',
+        title: 'How To Write a 1000-Word Essay in One Night',
+        preview: ``,
+        image: Default,
+        name: '2025-06-01-1000-Word-Essay-in-One-Night'
+    },
+    {
+        author: 'Christine Emeka-Nnegha',
+        date: '2025-06-01',
+        title: 'Top 3 TV shows and Movies to Watch in the Summer',
+        preview: ``,
+        image: Default,
+        name: '2025-06-01-Top-3-TV-Shows-And-Movies'
+    },
+      
     {
         author: 'Madeline Wallcraft',
         date: '2025-04-01',
         title: 'Teachers (Fake) Coaching',
         preview: ``,
         image: TeachersFakeCoaching,
-        name: '2025-04-01-Teachers-Fake-Coaching'
+        name: '2025-'
      }, 
- {
+     {
         author: '',
         date: '2025-04-01',
         title: '',
