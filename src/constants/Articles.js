@@ -156,11 +156,27 @@ import MrGarrisonChallenge from '../assets/images/2025-04-01-MrGarrisonChallenge
 import ArtOfPlaylist from '../assets/images/2025-04-01-Art-Of-Playlist.jpg'
 import UrbanPhotography from '../assets/images/2026-06-01-UrbanPhotography.jpg'
 import Lifetogetherthisummer from '../assets/images/2025-06-01-Lifetogetherthisummer.jpg'
-// import  from '../assets/images/.jpg'
-// import  from '../assets/images/.jpg'
-// import  from '../assets/images/.jpg'
+import SummerIsueCrosswordAnswers2025 from '../assets/images/2025-06-01 SummerIssueCrosswordAswers.jpg'
+import SummerIssuePDF2025 from '../assets/images/2025-06-01-BeaconPDF.jpg'
 
-const articles = [ 
+const articles = [
+    
+    {
+        author: 'Beacon Editors', 
+        date: '2025-06-01',
+        title: 'Summer 2025 Crossword Answers',
+        preview: `Answers for the Beacon 2025 Summer Crossword Puzzle`,
+        image: SummerIsueCrosswordAnswers2025,
+        name: ''
+    },
+     {
+        author: 'Beacon Editors',
+        date: '2025-06-01',
+        title: 'Beacon Summer\ Issue - PDF',
+        preview: `To view a PDF version of our Summer Beacon Issue, click here.`,
+        image:  Default,
+        name: '2015-06-01-PDF-Summer-Issue'
+    },
 {
         author: 'Julia Wu',
         date: '2025-06-01',
