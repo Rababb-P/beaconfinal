@@ -160,7 +160,109 @@ import SummerIsueCrosswordAnswers2025 from '../assets/images/2025-06-01 SummerIs
 import SummerIssuePDF2025 from '../assets/images/2025-06-01-BeaconPDF.jpg'
 
 const articles = [
+ {
+        author: 'Beacon Editors',
+        date: '2025-10-31',
+        title: 'Beacon Halloween Issue - PDF',
+        preview: `To view a PDF version of our Halloween Beacon Issue, click here.`,
+        image:  Default,
+        name: '2025-10-31-PDF-Halloween-Issue'
+    },
+
+    {
+        author: 'Uma Datar', 
+        date: '2025-10-31',
+        title: 'Stop Swindling the Kids!',
+        preview: ``,
+        image: Default,
+        name: '2025-10-31-Swindling-kids'
+    },
+     {
+        author: 'Charlotte Beaman', 
+        date: '2025-10-31',
+        title: 'Review of a Showgirl',
+        preview: ``,
+        image: Default,
+        name: '2025-10-31-Review-of-Showgirl'
+    },
+    {
+        author: 'Zoe Savic-Jovcic', 
+        date: '2025-10-31',
+        title: 'Fall(ing) into Feminist Literature',
+        preview: ``,
+        image: Default,
+        name: '2025-10-31-Feminist-literature'
+    },
+    {
+        author: 'Charis Chang', 
+        date: '2025-10-31',
+        title: 'Why We Still Fear The Dark',
+        preview: ``,
+        image: Default,
+        name: '2025-10-31-Fear-the-dark'
+    },
+    {
+        author: 'Ramaa Datar', 
+        date: '2025-10-31',
+        title: 'Special Effects In Horror Movies',
+        preview: ``,
+        image: Default,
+        name: '2025-10-31-Effects-in-horror-movies'
+    },
+    {
+        author: 'Nadine Telesford', 
+        date: '2025-10-31',
+        title: 'What to Do When Your Trick-or-Treating Days Are Over',
+        preview: ``,
+        image: Default,
+        name: '2025-10-31-Trick-or-treating-days-over'
+    },
+    {
+        author: 'Ishani Patel', 
+        date: '2025-10-31',
+        title: 'Popular Costume Predictions 2025',
+        preview: ``,
+        image: Default,
+        name: '2025-10-31-Costume-Predictions'
+    },
+    {
+        author: 'Kim Nguyen', 
+        date: '2025-10-31',
+        title: 'Is Camp Manitou Overrated?',
+        preview: ``,
+        image: Default,
+        name: '2025-10-31-Camp-Manitou-Overrated'
+    },
+    {
+        author: 'Archana Arulthas', 
+        date: '2025-10-31',
+        title: 'A Survival Guide to Horror Films:How to Outsmart Slashers, Zombies, and More',
+        preview: ``,
+        image: Default,
+        name: '2025-10-31-Survival-Guide-Horror-Movies'
+    },
+    {
+        author: 'Ethan Lin', 
+        date: '2025-10-31',
+        title: 'Niche Candy Review',
+        preview: ``,
+        image: Default,
+        name: '2025-10-31-Niche-Candy-Review'
+    },
+    {
+        author: 'Amanda Hamilton ', 
+        date: '2025-10-31',
+        title: 'Throwback Time - Brown & Orange:The Misunderstood Beauty of MCI',
+        preview: ``,
+        image: Default,
+        name: '2025-10-31-Throwback-time'
+    },
     
+    
+    
+    
+    
+
     {
         author: 'Beacon Editors', 
         date: '2025-06-01',
