@@ -4,7 +4,7 @@ import './Members.css';
 import { motion } from 'framer-motion';
 import { staggerContainer, textVariant } from '../utils/motion';
 import { styles } from '../styles';
-import { editorsInChief, secretary, publicityHead, layoutHead, layoutTeam, copyEditors, photographyTeam, photographyHead, comicsIllustrationsTeam, comicsIllustrationsHead, webTeam, webHead, writersAndContributors, headColumnist, columnist } from '../constants/Event';
+import { editorsInChief, secretary, publicityHead, layoutHead, layoutTeam, copyEditors, photographyTeam, photographyHead, comicsIllustrationsTeam, comicsIllustrationsHead, webTeam, webHead, writersAndContributors, headColumnist, columnist, publicity } from '../constants/Event';
 
 const categories = [
   { title: 'Editors in Chief', members: editorsInChief },
@@ -22,6 +22,7 @@ const categories = [
   { title: 'Photography Team', members: photographyTeam },
   { title: 'Layout Team', members: layoutTeam },
   { title: 'Writers and Contributors', members: writersAndContributors },
+  { title: 'Publicity Team', members: publicity },
  
 ];
 

@@ -94,13 +94,35 @@ import {
 
   export const publicityHead = [
     {
-      name: "Anissha Pat",
+      name: "Anissha Pathmakripan",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
       name: "Amogh Thakur",
+      badgebg: '#ff5733',
+      pfp: defaultImage,
+      iglink: ''
+    }
+    // Add more Publicity Heads as needed
+  ];
+
+  export const publicity = [
+    {
+      name: "Laaiba Basit",
+      badgebg: '#ff5733',
+      pfp: defaultImage,
+      iglink: ''
+    },
+    {
+      name: "Charlotte Beaman",
+      badgebg: '#ff5733',
+      pfp: defaultImage,
+      iglink: ''
+    },
+    {
+      name: "Insha Fatima",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -204,7 +226,7 @@ import {
       iglink: ''
     },
     {
-      name: "Hailey C.",
+      name: "Hailey Cureatz",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -216,13 +238,13 @@ import {
       iglink: ''
     },
     {
-      name: "Diya T.",
+      name: "Diya Thomas",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Ansh S.",
+      name: "Ansh Sehijpal",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -247,19 +269,19 @@ import {
       iglink: ''
     },
     {
-      name: "Cierra Alagnaf",
-      badgebg: '#ff5733',
-      pfp: cierraAlagnaf,
-      iglink: ''
-    },
-    {
-      name: "Erika Lee",
+      name: "Manya Saini",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Noori Kim",
+      name: "Sevda Kaleci",
+      badgebg: '#ff5733',
+      pfp: defaultImage,
+      iglink: ''
+    },
+    {
+      name: "Natalie Fung",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -278,37 +300,37 @@ import {
 /////////////////
   export const photographyTeam = [
   {
-    name: "Nasib H.",
+    name: "Nasib Hasan",
     badgebg: '#ff5733',
     pfp: defaultImage,
     iglink: ''
   },
   { 
-    name: "Fatha M.",
+    name: "Fatha Mohamed",
     badgebg: '#ff5733',
     pfp: defaultImage,
     iglink: ''
   },
   {
-    name: "Bejan Y.",
+    name: "Bejan Younus",
     badgebg: '#ff5733',
     pfp: defaultImage,
     iglink: ''
   },
   {
-    name: "Hassan S.",
+    name: "Hassan Syed",
     badgebg: '#ff5733',
     pfp: defaultImage,
     iglink: ''
   },
   {
-    name: "Mohid S.",
+    name: "Mohid Shahid",
     badgebg: '#ff5733',
     pfp: defaultImage,
     iglink: ''
   },
   {
-    name: "Kiyan T.",
+    name: "Kiyan Toka",
     badgebg: '#ff5733',
     pfp: defaultImage,
     iglink: ''
@@ -325,7 +347,7 @@ import {
   
   export const webHead = [
     {
-      name: "Birhan Lemma",
+      name: "Birhan Lemme",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -336,22 +358,40 @@ import {
 
   export const webTeam = [
     {
-      name: "Mahesha Persuad",
+      name: "Pranavi Kollarakkalo",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Agasthya Chidambaram",
+      name: "Oswin Saha",
       badgebg: '#ff5733',
-      pfp: agasthyaChidambaram,
+      pfp: defaultImage,
+      iglink: ''
+    },
+    {
+      name: "Rayyan Khan",
+      badgebg: '#ff5733',
+      pfp: defaultImage,
+      iglink: ''
+    },
+    {
+      name: "Abdirahman Mohamed",
+      badgebg: '#ff5733',
+      pfp: defaultImage,
+      iglink: ''
+    },
+    {
+      name: "Sora Le",
+      badgebg: '#ff5733',
+      pfp: defaultImage,
       iglink: ''
     }
   ];
   
   export const writersAndContributors = [
     {
-      name: "Charis C.",
+      name: "Charis Chang",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -369,15 +409,16 @@ import {
       iglink: ''
     },
     {
-      name: "Ramaa D.",
+      name: "Ramaa Datar",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Uma D.",
+      name: "Uma Datar",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     }
   ]
+  
