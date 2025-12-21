@@ -160,6 +160,105 @@ import SummerIsueCrosswordAnswers2025 from '../assets/images/2025-06-01 SummerIs
 import SummerIssuePDF2025 from '../assets/images/2025-06-01-BeaconPDF.jpg'
 
 const articles = [
+     
+    {
+        author: 'Beacon Editors',
+        date: '2025-12-19',
+        title: 'Beacon Holiday Issue - PDF',
+        preview: `To view a PDF version of our Holiday Beacon Issue, click here.`,
+        image:  Default,
+        name: '2025-12-19-Holiday-Issue-PDF'
+    },
+
+     {
+        author: 'Tyler Mackinnon', 
+        date: '2025-12-19',
+        title: 'Throwback Time: Im Certainly Not Lovin It',
+        preview: ``,
+        image: Default,
+        name: '2025-12-19-Not-Lovin-it'
+    }, 
+
+    {
+        author: 'Ethan Lin', 
+        date: '2025-12-19',
+        title: 'HUMBLED by SHOCKING Attempt at Holiday Baking!',
+        preview: ``,
+        image: Default,
+        name: '2025-12-19-Attempt-Holiday-Baking'
+    },
+
+     {
+        author: 'Archana Arulthas', 
+        date: '2025-12-19',
+        title: 'Speak for the Suffering and Silenced: Sudans Story',
+        preview: ``,
+        image: Default,
+        name: '2025-12-19-Sudan-Story'
+    },
+ 
+     {
+        author: 'Kim Nguyen', 
+        date: '2025-12-19',
+        title: 'The Rise of Nonchalance',
+        preview: ``,
+        image: Default,
+        name: '2025-12-19-Rise-of-Nonchalance'
+    },
+
+      {
+        author: 'Ramaa Datar', 
+        date: '2025-12-19',
+        title: 'An Animals Guide to Survive a Canadian Winter',
+        preview: ``,
+        image: Default,
+        name: '2025-12-19-Canadian-Winter'
+    },
+
+    {
+        author: 'Julia Beaman & Zoe Savic-Jovcic', 
+        date: '2025-12-19',
+        title: 'Holiday Horoscopes',
+        preview: ``,
+        image: Default,
+        name: '2025-12-19-Holiday-Horoscopes'
+    },
+
+    {
+        author: 'Uma Datar', 
+        date: '2025-12-19',
+        title: 'The Best Ways to Spend the Holidays',
+        preview: ``,
+        image: Default,
+        name: '2025-12-19-Best-Ways-to-Spend-Holidays'
+    },
+
+     {
+        author: 'Zoe Savic-Jovcic', 
+        date: '2025-12-19',
+        title: 'Into the Deep End: The Case for Pre-AP',
+        preview: ``,
+        image: Default,
+        name: '2025-12-19-Case-for-Pre-Ap'
+    },
+
+    {
+        author: 'Ishani Patel', 
+        date: '2025-12-19',
+        title: 'I Procrastinated With This Article',
+        preview: ``,
+        image: Default,
+        name: '2025-12-19- Procrastinated-with-this-article'
+    },
+
+    {
+        author: 'Christine Emeka Nnegha', 
+        date: '2025-12-19',
+        title: 'Its Just a Theory, A Hallmark Theory',
+        preview: ``,
+        image: Default,
+        name: '2025-12-19-Hallmark-Theory'
+    },
  {
         author: 'Beacon Editors',
         date: '2025-10-31',
