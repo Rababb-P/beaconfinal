@@ -1,4 +1,6 @@
-import {aidanSchreder,
+import { deinterleaveAttribute } from 'three/examples/jsm/utils/BufferGeometryUtils.js';
+import {
+    aidanSchreder,
     alishaWong,
     anneliAloeCuffe,
     christineLee,
@@ -60,45 +62,67 @@ import {aidanSchreder,
   
   export const editorsInChief = [
     {
-      name: "Rababb Pannu",
-      badgebg: '#ff5733',
-      pfp: rababbPannu,
-      iglink: 'https://www.instagram.com/rababb_p/'
-    },
-    {
       name: "Julia Beaman",
       badgebg: '#ff5733',
       pfp: juliaBeaman,
       iglink: 'https://www.instagram.com/juliabeaman/'
+    },
+    {
+      name: "Zoe Savic-Jovcic",
+      badgebg: '#ff5733',
+      pfp: zoeSavicJovcic,
+      iglink: ''
     }
     // Add more Editors-in-Chief as needed
   ];
 
   export const secretary = [
     {
-      name: "Haristaa Satheeskumar",
+      name: "Yash Seth",
       badgebg: '#ff5733',
-      pfp: haristaaSatheeskumar,
+      pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Nathan Perlman",
+      name: "Fatima Qadeer",
       badgebg: '#ff5733',
-      pfp: nathanPerlman,
-      iglink: 'https://www.instagram.com/nathanperlman/'
+      pfp: fatimaQadeer,
+      iglink: ''
     }
     // Add more Secretaries as needed
   ];
 
   export const publicityHead = [
     {
-      name: "Lukas Cousins",
+      name: "Anissha Pathmakripan",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Brianna Southwell",
+      name: "Amogh Thakur",
+      badgebg: '#ff5733',
+      pfp: defaultImage,
+      iglink: ''
+    }
+    // Add more Publicity Heads as needed
+  ];
+
+  export const publicity = [
+    {
+      name: "Laaiba Basit",
+      badgebg: '#ff5733',
+      pfp: defaultImage,
+      iglink: ''
+    },
+    {
+      name: "Charlotte Beaman",
+      badgebg: '#ff5733',
+      pfp: defaultImage,
+      iglink: ''
+    },
+    {
+      name: "Insha Fatima",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -114,10 +138,22 @@ import {aidanSchreder,
       iglink: ''
     },
     {
-      name: "Ryan Gordon",
+      name: 'Noah Park',
       badgebg: '#ff5733',
-      pfp: ryanGordon,
-      iglink: 'https://www.instagram.com/ryangordon/'
+      pfp: noahPark,
+      iglink: ''
+    },
+    {
+      name: 'Dhruv Patel',
+      badgebg: '#ff5733',
+      pfp: dhruvPatel,
+      iglink: ''
+    },
+    {
+      name: 'Brianna Southwell',
+      badgebg: '#ff5733',
+      pfp: defaultImage,
+      iglink: ''
     },
     {
       name: "Zarra Vassa",
@@ -128,9 +164,21 @@ import {aidanSchreder,
   ]
   export const headColumnist = [
     {
-      name: 'Dhruv Patel',
+      name: 'Archana Arulthas',
       badgebg: '#ff5733',
-      pfp: dhruvPatel,
+      pfp: defaultImage,
+      iglink: ''
+    },
+    {
+      name: 'Ethan Lin',
+      badgebg: '#ff5733',
+      pfp: ethanLin,
+      iglink: ''
+    },
+    {
+      name: 'Kim Nguyen',
+      badgebg: '#ff5733',
+      pfp: defaultImage,
       iglink: ''
     }
   ]
@@ -164,7 +212,7 @@ import {aidanSchreder,
       iglink: ''
     },
     {
-      name: "Brianna Southwell",
+      name: "Muchen Zhou",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -172,25 +220,13 @@ import {aidanSchreder,
   ];
   export const layoutTeam = [
     {
-      name: "Dylan Anderson",
+      name: "Isaiah Chambers",
       badgebg: '#ff5733',
-      pfp: defaultImage,
+      pfp: isaiahChambers,
       iglink: ''
     },
     {
-      name: "Nusrat Raisa",
-      badgebg: '#ff5733',
-      pfp: nusratRaisa,
-      iglink: ''
-    },
-    {
-      name: "Romika Taher",
-      badgebg: '#ff5733',
-      pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Matthew Ma",
+      name: "Hailey Cureatz",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -202,33 +238,15 @@ import {aidanSchreder,
       iglink: ''
     },
     {
-      name: "Lilia McOuat",
+      name: "Diya Thomas",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Jasmyn Naru",
+      name: "Ansh Sehijpal",
       badgebg: '#ff5733',
       pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Fatima Qadeer",
-      badgebg: '#ff5733',
-      pfp: fatimaQadeer,
-      iglink: ''
-    },
-    {
-      name: "Muchen Zhou",
-      badgebg: '#ff5733',
-      pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Isaiah Chambers",
-      badgebg: '#ff5733',
-      pfp: isaiahChambers,
       iglink: ''
     }
     // Add more Layout Heads as needed
@@ -236,9 +254,9 @@ import {aidanSchreder,
   
   export const comicsIllustrationsHead = [
     {
-      name: "Elliot Pagnan",
+      name: "Penny McClement",
       badgebg: '#ff5733',
-      pfp: elliotPagnan,
+      pfp: pennyMcClement,
       iglink: ''
     }
     // Add more Comics/Illustrations Heads as needed
@@ -251,25 +269,19 @@ import {aidanSchreder,
       iglink: ''
     },
     {
-      name: "Cierra Alagnaf",
-      badgebg: '#ff5733',
-      pfp: cierraAlagnaf,
-      iglink: ''
-    },
-    {
-      name: "Erika Lee",
+      name: "Manya Saini",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Penny McClement",
+      name: "Sevda Kaleci",
       badgebg: '#ff5733',
-      pfp: pennyMcClement,
+      pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Noori Kim",
+      name: "Natalie Fung",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -279,95 +291,54 @@ import {aidanSchreder,
   
   export const photographyHead = [
     {
-      name: "Aidan Schreder",
+      name: "Jasmine Basra",
       badgebg: '#ff5733',
-      pfp: aidanSchreder,
-      iglink: 'https://www.instagram.com/aidanschreder/'
+      pfp: jasmineBasra,
+      iglink: ''
     }
   ]
-
+/////////////////
   export const photographyTeam = [
-  { name: "Lily Chandran",
+  {
+    name: "Nasib Hasan",
+    badgebg: '#ff5733',
+    pfp: defaultImage,
+    iglink: ''
+  },
+  { 
+    name: "Fatha Mohamed",
     badgebg: '#ff5733',
     pfp: defaultImage,
     iglink: ''
   },
   {
-    name: "Keira Chang",
+    name: "Bejan Younus",
     badgebg: '#ff5733',
     pfp: defaultImage,
     iglink: ''
   },
   {
-    name: "Chloe Tran-Nguyen",
+    name: "Hassan Syed",
     badgebg: '#ff5733',
     pfp: defaultImage,
     iglink: ''
   },
   {
-    name: "Anissha Pat",
+    name: "Mohid Shahid",
     badgebg: '#ff5733',
     pfp: defaultImage,
     iglink: ''
   },
   {
-    name: "Marwat Begzadah",
+    name: "Kiyan Toka",
     badgebg: '#ff5733',
     pfp: defaultImage,
-    iglink: ''
-  },
-  {
-    name: "Jasmine Basra",
-    badgebg: '#ff5733',
-    pfp: jasmineBasra,
-    iglink: ''
-  },
-  {
-    name: "Filip Plavsic",
-    badgebg: '#ff5733',
-    pfp: defaultImage,
-    iglink: ''
-  },
-  {
-    name: "Shaurya Nandal",
-    badgebg: '#ff5733',
-    pfp: defaultImage,
-    iglink: ''
-  },
-  {
-    name: "Abigail Sun",
-    badgebg: '#ff5733',
-    pfp: defaultImage,
-    iglink: ''
-  },
-  {
-    name: "Noah Dominguez-Schatz",
-    badgebg: '#ff5733',
-    pfp: noahDominguez,
-    iglink: ''
-  },
-  {
-    name: "Emma Bedja",
-    badgebg: '#ff5733',
-    pfp: emmaBedja,
     iglink: ''
   },
   {
     name: "Daniel Mok",
     badgebg: '#ff5733',
     pfp: danielMok,
-    iglink: ''
-  },
-  {
-    name: "Jolene Le",
-    badgebg: '#ff5733',
-    pfp: defaultImage,
-    iglink: ''
-  },
-  {
-    name: "Lucas Kovacevic",
-    badgebg: '#ff5733',
-    pfp: defaultImage,
     iglink: ''
   }
   // Add more Photography Heads as needed
@@ -376,13 +347,7 @@ import {aidanSchreder,
   
   export const webHead = [
     {
-      name: "George Florea",
-      badgebg: '#ff5733',
-      pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Edwin Zeng",
+      name: "Birhan Lemme",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -393,76 +358,40 @@ import {aidanSchreder,
 
   export const webTeam = [
     {
-      name: "Birhan Lemma",
+      name: "Pranavi Kollarakkalo",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Mahesha Persuad",
+      name: "Oswin Saha",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Agasthya Chidambaram",
+      name: "Rayyan Khan",
       badgebg: '#ff5733',
-      pfp: agasthyaChidambaram,
+      pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Georgia Wu",
+      name: "Abdirahman Mohamed",
       badgebg: '#ff5733',
-      pfp: georgiaWu,
+      pfp: defaultImage,
+      iglink: ''
+    },
+    {
+      name: "Sora Le",
+      badgebg: '#ff5733',
+      pfp: defaultImage,
       iglink: ''
     }
   ];
   
   export const writersAndContributors = [
     {
-      name: "Nadine Telesford",
-      badgebg: '#ff5733',
-      pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Kim Nguyen",
-      badgebg: '#ff5733',
-      pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Maddie Wallcraft",
-      badgebg: '#ff5733',
-      pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Rayyan Ali",
-      badgebg: '#ff5733',
-      pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Amogh Thakur",
-      badgebg: '#ff5733',
-      pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Kaiden Tanaka",
-      badgebg: '#ff5733',
-      pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Archana Arulthas",
-      badgebg: '#ff5733',
-      pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Christine Emeka-Nnegha",
+      name: "Charis Chang",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
@@ -474,34 +403,22 @@ import {aidanSchreder,
       iglink: ''
     },
     {
-      name: "Arlo Gibson",
+      name: "Nadine Telesford",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Zoe Savic-Jovcic",
-      badgebg: '#ff5733',
-      pfp: zoeSavicJovcic,
-      iglink: ''
-    },
-    {
-      name: "Charis Chang",
+      name: "Ramaa Datar",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
     },
     {
-      name: "Layla Vassa",
+      name: "Uma Datar",
       badgebg: '#ff5733',
       pfp: defaultImage,
-      iglink: ''
-    },
-    {
-      name: "Ethan Lin",
-      badgebg: '#ff5733',
-      pfp: ethanLin,
       iglink: ''
     }
-
   ]
+  

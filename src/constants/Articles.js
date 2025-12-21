@@ -158,6 +158,8 @@ import UrbanPhotography from '../assets/images/2026-06-01-UrbanPhotography.jpg'
 import Lifetogetherthisummer from '../assets/images/2025-06-01-Lifetogetherthisummer.jpg'
 import SummerIsueCrosswordAnswers2025 from '../assets/images/2025-06-01 SummerIssueCrosswordAswers.jpg'
 import SummerIssuePDF2025 from '../assets/images/2025-06-01-BeaconPDF.jpg'
+import HalloweenCandy from '../assets/images/2025-10-15-HalloweenIssue.jpg'
+import CandleLight from '../assets/images/2025-10-19-CandleLight.jpg'
 
 const articles = [
      
@@ -273,7 +275,7 @@ const articles = [
         date: '2025-10-31',
         title: 'Stop Swindling the Kids!',
         preview: ``,
-        image: Default,
+        image: HalloweenCandy,
         name: '2025-10-31-Swindling-kids'
     },
      {
@@ -297,7 +299,7 @@ const articles = [
         date: '2025-10-31',
         title: 'Why We Still Fear The Dark',
         preview: ``,
-        image: Default,
+        image: CandleLight,
         name: '2025-10-31-Fear-the-dark'
     },
     {
