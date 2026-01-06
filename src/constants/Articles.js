@@ -160,6 +160,7 @@ import SummerIsueCrosswordAnswers2025 from '../assets/images/2025-06-01 SummerIs
 import SummerIssuePDF2025 from '../assets/images/2025-06-01-BeaconPDF.jpg'
 import HalloweenCandy from '../assets/images/2025-10-15-HalloweenIssue.jpg'
 import CandleLight from '../assets/images/2025-10-19-CandleLight.jpg'
+import BakingCake from '../assets/images/2025-11-18-BakingAttempt.jpg'
 
 const articles = [
      
@@ -186,7 +187,7 @@ const articles = [
         date: '2025-12-19',
         title: 'HUMBLED by SHOCKING Attempt at Holiday Baking!',
         preview: ``,
-        image: Default,
+        image: BakingCake,
         name: '2025-12-19-Attempt-Holiday-Baking'
     },
 
