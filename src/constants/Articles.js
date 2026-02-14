@@ -162,7 +162,96 @@ import HalloweenCandy from '../assets/images/2025-10-15-HalloweenIssue.jpg'
 import CandleLight from '../assets/images/2025-10-19-CandleLight.jpg'
 
 const articles = [
-     
+    {
+        author: 'Beacon Editors',
+        date: '2026-02-12',
+        title: 'Beacon Valentines Issue - PDF',
+        preview: `To view a PDF version of our Valentines Beacon Issue, click here.`,
+        image:  Default,
+        name: '2026-02-12-Valentines-Issue-PDF'
+    },
+    
+    {
+        author: 'Aneesha Quadeer', 
+        date: '2026-02-12',
+        title: 'Throwback Time: Cringey Valentines Pick-up Lines',
+        preview: ``,
+        image: Default,
+        name: '2026-02-12-Pick-up-lines'
+    }, 
+    {
+        author: 'Archana Arulthas', 
+        date: '2026-02-12',
+        title: 'The Illusion of Efficiency: How AI is Hurting the Music Industry',
+        preview: ``,
+        image: Default,
+        name:'2026-02-12-Illusion-of-Efficiency'
+    }, 
+    {
+        author: 'Kim Nguyen', 
+        date: '2026-02-12',
+        title: 'Hes Just Not That Into You',
+        preview: ``,
+        image: Default,
+        name: '2026-02-12-Hes-not-Into-you'
+    }, 
+    {
+        author: 'Ethan Lin', 
+        date: '2026-02-12',
+        title: 'I Am a Fraud: my lifelong Disconnect with My Heritage',
+        preview: ``,
+        image: Default,
+        name: '2026-02-12-A-Fraud'
+    }, 
+    {
+        author: 'Ramaa Datar', 
+        date: '2026-02-12',
+        title: 'AI: The Flame Growing into a Fire',
+        preview: ``,
+        image: Default,
+        name: '2026-02-12-Growing-Fire'
+    }, 
+    {
+        author: 'Zoe Savic-Jovcic', 
+        date: '2026-02-12',
+        title: 'In Defense of Guidance',
+        preview: ``,
+        image: Default,
+        name: '2026-02-12-Defense-Guidance'
+    }, 
+    {
+        author: 'Christine Emeka-Nnegha', 
+        date: '2026-02-12',
+        title: 'Love in the Animal Kingdom',
+        preview: ``,
+        image: Default,
+        name: '2026-02-12-Animal-Kingdom'
+    }, 
+    {
+        author: 'Uma Datar', 
+        date: '2026-02-12',
+        title: 'An Expressive Flower For An Expressive Day',
+        preview: ``,
+        image: Default,
+        name: '2026-02-12-Expressive-Flower'
+    },  
+    {
+        author: 'Christine Emeka-Nnegha', 
+        date: '2026-02-12',
+        title: 'Valentines Actually',
+        preview: ``,
+        image: Default,
+        name: '2026-02-12-Valentines-Actually'
+    }, 
+     {
+        author: 'Ishani Patel', 
+        date: '2026-02-12',
+        title: '10 Things I Hate About Rom-Coms (And a Few Things I Love)',
+        preview: ``,
+        image: Default,
+        name: '2026-02-12-Roms-Coms'
+    }, 
+
     {
         author: 'Beacon Editors',
         date: '2025-12-19',

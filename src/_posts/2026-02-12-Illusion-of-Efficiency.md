@@ -1,0 +1,13 @@
+**​Scrolling through TikTok, I came across a cover of The *Fate of Ophelia* by Taylor Swift**. Everyone in the comments was raving about how it was better than the original, with livelier & more melodious singing. I, too, loved how the remix felt more upbeat. It was only when my sister told me that I realized the cover was AI. Don’t get me wrong, the added melodies would’ve made it a great rendition, if it had been made by humans.  
+
+  
+Along with songs, AI artists are being introduced to the music industry. An example of an AI artist is Xania Monet, who was created by poet Telisha “Nikki” Jones to turn her lyrics into songs. Lyricism is an art in itself and should be recognised more often, but that does not justify the use of AI to bring the lyrics to life. You might think AI is simply making it easier for musicians to produce more, giving their audience more records. For consumers, AI may seem like nothing less than a positive on their digital playlists, but for many artists in the business, it poses a threat.  
+
+  
+For as long as we’ve known, music has been a human craft. Albums that we listen to on a daily basis take an enormous amount of time to produce and are a tedious process. There are nearly 100 million tracks uploaded across streaming platforms such as Apple Music, each of which use the energy and effort of dozens of artists. Even as I’m writing this article, I am listening to music made by people who make music for a living. Opening a pathway for AI in the music industry strips the chances of many upcoming, hardworking artists who want to make a living.  
+
+  
+However, it is not just the music industry that is affected by AI. AI art is being constantly posted on social media, and the art community has been striking back. The whole point of AI is that it combines information from all kinds of resources and produces a quick solution. When it comes to art, AI takes from actual artists and compiles their work. All art takes time and compassion, everything AI lacks. Look at how Hayao Miyazaki, the creator behind Studio Ghibli, still continues to make films amid his retirement announcement. Even after decades of illustrating and a rigorous, strict schedule when completing animations, Miyazaki still comes back to create stories through art. That is the passion and commitment that cannot be replicated through AI’s Studio Ghibli-style images. Artists are obviously enraged, since skills they have practiced over a significant amount of time are quickly being replicated within seconds without any sort of effort. 
+With AI growing every day, we probably will see AI songs and art be used more often, whether we like it or not. It’s our job to support hardworking, committed, and human artists.
+
+

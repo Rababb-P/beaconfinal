@@ -1,0 +1,1 @@
+To view a PDF version of our Valentines Beacon Issue, [click here.](https://drive.google.com/file/d/1yEjsvAo7JddJSBSrBLots1ridg3PZOTX/view?usp=sharing)
