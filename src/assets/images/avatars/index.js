@@ -1,4 +1,3 @@
-import aidanSchreder from './aidan-schreder.jpg';
 import alishaWong from './alisha-wong.jpg';
 import anneliAloeCuffe from './anneli-aloe-cuffe.jpg';
 import christineLee from './christine-lee.jpg';
