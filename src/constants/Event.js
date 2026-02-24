@@ -127,7 +127,7 @@ import {
     {
       name: 'Ethan Lin',
       badgebg: '#ff5733',
-      pfp: defaultImage,
+      pfp: ethanLin,
       iglink: ''
     },
     {
@@ -302,7 +302,7 @@ import {
   
   export const webHead = [
     {
-      name: "Birhan Lemme",
+      name: "Birhan Lemma",
       badgebg: '#ff5733',
       pfp: defaultImage,
       iglink: ''
