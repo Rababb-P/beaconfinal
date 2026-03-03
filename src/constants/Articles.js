@@ -162,6 +162,8 @@ import HalloweenCandy from '../assets/images/2025-10-15-HalloweenIssue.jpg'
 import CandleLight from '../assets/images/2025-10-19-CandleLight.jpg'
 import BakingCake from '../assets/images/2025-11-18-BakingAttempt.jpg'
 import IamFraud from '../assets/images/2026-02-14-IamaFraud.jpg'
+import NotIntoYou from '../assets/images/2026-02-14-HesJustNotIntoYou.jpg'
+import Valentines2026 from '../assets/images/2026-02-14-RomCom.png'
 
 const articles = [
     {
@@ -169,7 +171,7 @@ const articles = [
         date: '2026-02-12',
         title: 'Beacon Valentines Issue - PDF',
         preview: `To view a PDF version of our Valentines Beacon Issue, click here.`,
-        image:  Default,
+        image:  Valentines2026,
         name: '2026-02-12-Valentines-Issue-PDF'
     },
     
@@ -192,9 +194,9 @@ const articles = [
     {
         author: 'Kim Nguyen', 
         date: '2026-02-12',
-        title: 'Hes Just Not That Into You',
+        title: 'He\'s Just Not That Into You',
         preview: ``,
-        image: Default,
+        image: NotIntoYou,
         name: '2026-02-12-Hes-not-Into-you'
     }, 
     {
