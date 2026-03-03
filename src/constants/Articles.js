@@ -161,6 +161,7 @@ import SummerIssuePDF2025 from '../assets/images/2025-06-01-BeaconPDF.jpg'
 import HalloweenCandy from '../assets/images/2025-10-15-HalloweenIssue.jpg'
 import CandleLight from '../assets/images/2025-10-19-CandleLight.jpg'
 import BakingCake from '../assets/images/2025-11-18-BakingAttempt.jpg'
+import IamFraud from '../assets/images/2026-02-14-IamaFraud.jpg'
 
 const articles = [
     {
@@ -201,7 +202,7 @@ const articles = [
         date: '2026-02-12',
         title: 'I Am a Fraud: my lifelong Disconnect with My Heritage',
         preview: ``,
-        image: Default,
+        image: IamFraud,
         name: '2026-02-12-A-Fraud'
     }, 
     {
