@@ -1,0 +1,1 @@
+To view a PDF version of our April Beacon Issue, [click here.](https://drive.google.com/file/d/156cn2g9rcNU3bnmcYZhbB3n_5827NjSD/view?usp=drive_link)

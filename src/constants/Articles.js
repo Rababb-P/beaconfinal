@@ -168,13 +168,75 @@ import Valentines2026 from '../assets/images/2026-02-14-RomCom.png'
 const articles = [
     {
         author: 'Beacon Editors',
+        date: '2026-04-01',
+        title: 'Beacon April Issue - PDF',
+        preview: `To view a PDF version of our April Beacon Issue, click here.`,
+        image:  Default,
+        name: '2026-04-01-April-Issue-PDF'
+    },
+    {
+        author: 'Anton Ego',
+        date: '2026-04-01',
+        title: 'A Piquant Revival of the Palate',
+        preview: '',
+        image: Default,
+        name: '2026-04-01-A-Piquat-Revival-of-the-Palate'
+
+    },
+    {
+        author: 'Laura Forgrave',
+        date: '2026-04-01',
+        title: 'More Than Just Midterms: A Controversial Take on April',
+        preview: '',
+        image: Default,
+        name: '2026-04-01-More-Than-Just-Midterms:-A-Controversial-Take-on-April'
+
+    },
+    {
+        author: 'Julia Beaman',
+        date: '2026-04-01',
+        title: 'Not A Trivial Pursuit',
+        preview: '',
+        image: Default,
+        name: '2026-04-01-Not-A-Trivial-Pursuit'
+
+    },
+    {
+        author: 'Uma Datar',
+        date: '2026-04-01',
+        title: 'Why Do Libraries Help You Study Better?',
+        preview: '',
+        image: Default,
+        name: '2026-04-01-Why-Do-Libraries-Help-You-Study-Better'
+
+    },
+    {
+        author: 'Avni Tilva',
+        date: '2026-04-01',
+        title: 'Throwback: Spring is Coming Soon',
+        preview: '',
+        image: Default,
+        name: '2026-04-01-Throwback:-Spring-is-Coming-Soon'
+
+    },
+    {
+        author: 'Archana Arulthas',
+        date: '2026-04-01',
+        title: 'Marty Leads in “Marty Supreme” and Other MCI Faces in Film',
+        preview: '',
+        image: Default,
+        name: '2026-04-01-Marty-Leads-in-“Marty-Supreme”-and-Other-MCI-Faces-in-Film'
+
+    },
+
+    {
+        author: 'Beacon Editors',
         date: '2026-02-12',
         title: 'Beacon Valentines Issue - PDF',
         preview: `To view a PDF version of our Valentines Beacon Issue, click here.`,
         image:  Valentines2026,
         name: '2026-02-12-Valentines-Issue-PDF'
     },
-    
     {
         author: 'Aneesha Quadeer', 
         date: '2026-02-12',
