@@ -189,7 +189,7 @@ const articles = [
         title: 'More Than Just Midterms: A Controversial Take on April',
         preview: '',
         image: Default,
-        name: '2026-04-01-More-Than-Just-Midterms:-A-Controversial-Take-on-April'
+        name: '2026-04-01-More-Than-Just-Midterms-A-Controversial-Take-on-April'
 
     },
     {
