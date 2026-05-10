@@ -1,0 +1,1 @@
+To view a PDF version of our Alumni Beacon Issue, [click here.](https://drive.google.com/file/d/1gGZMSBZRSbWqefqO9NzMfPpbjHdBdldZ/view?usp=sharing)

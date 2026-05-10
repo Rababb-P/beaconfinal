@@ -168,6 +168,79 @@ import Valentines2026 from '../assets/images/2026-02-14-RomCom.png'
 const articles = [
     {
         author: 'Beacon Editors',
+        date: '2026-05-02',
+        title: 'Beacon Alumni Issue - PDF',
+        preview: `To view a PDF version of our April Beacon Issue, click here.`,
+        image:  Default,
+        name: '2026-05-02-Alumni-Issue-PDF'
+    },
+    {
+        author: 'Archana Arulthas',
+        date: '2026-05-02',
+        title: 'From IT to Ink: Cindy Carroll`s  Journey as a Writer',
+        preview: ``,
+        image:  Default,
+        name: '2026-04-02-From-IT-to-Ink-Cindy-Carroll`s-Journey-as-a-Writer'
+    },
+    {
+        author: 'Penny McClement',
+        date: '2026-05-02',
+        title: 'Q&A with Lindsay Zier-Vogel (Class of `98)',
+        preview: ``,
+        image:  Default,
+        name: '2026-05-02-Q&A-with-Lindsay-Zier-Vogel'
+    },
+    {
+        author: 'Ishani Patel',
+        date: '2026-05-02',
+        title: 'Mark Ellis: TV Producer and Showrunner',
+        preview: ``,
+        image:  Default,
+        name: '2026-05-02-Mark-Ellis-TV-Producer-and-Showrunner'
+    },
+    {
+        author: 'Julia Beaman',
+        date: '2026-05-02',
+        title: 'The Legal Story of Grant Ferguson, from Model UN to the Courtroom',
+        preview: ``,
+        image:  Default,
+        name: '2026-05-02-The-Legal-Story-of-Grant-Ferguson-from-Model-UN-to-the-Courtroom'
+    },
+    {
+        author: 'Nadine Telesford',
+        date: '2026-05-02',
+        title: 'In Conversation with James Noronha',
+        preview: ``,
+        image:  Default,
+        name: '2026-05-02-In-Conversation-with-James-Noronha'
+    },
+    {
+        author: 'Kim Nguyen',
+        date: '2026-05-02',
+        title: 'Darling, Hold My Purse: How Karen Goodwillie Became an Entrepreneur',
+        preview: ``,
+        image:  Default,
+        name: '2026-05-02-Darling-Hold-My-Purse-How-Karen-Goodwillie-Became-an-Entrepreneur'
+    },
+    {
+        author: 'Ethan Lin',
+        date: '2026-05-02',
+        title: 'From Bear to Educator: An Interview with Robert Deonarine',
+        preview: ``,
+        image:  Default,
+        name: '2026-05-02-From-Bear-to-Educator-An-Interview-with-Robert-Deonarine'
+    },
+    {
+        author: 'Uma Datar',
+        date: '2026-05-02',
+        title: 'Alumni Teachers of Martingrove',
+        preview: ``,
+        image:  Default,
+        name: '2026-05-02-Alumni-Teachers-of-Martingrove'
+    },
+
+    {
+        author: 'Beacon Editors',
         date: '2026-04-01',
         title: 'Beacon April Issue - PDF',
         preview: `To view a PDF version of our April Beacon Issue, click here.`,
