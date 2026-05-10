@@ -1,0 +1,21 @@
+**It might surprise you to know that some of our very own Martingrove teachers are alumni of Martingrove Collegiate Institute as well.** Mr. Parker, Ms. Thomson, Ms. Mavrou, and Mr. Khadaroo are all Martingrove alumni. This section has been dedicated to let the Martingrove community learn more about them and their time at Martingrove!
+
+  
+
+Mr. Parker graduated from Martingrove in 1999. Some of the subjects he taught in the past years include Grade 9 Geography and Phys. Ed.; Grade 10 History, Exercise Science, and Media Arts; Grade 11 Law and History (American and World);and Grade 12 Law, Recreation and Leadership, Politics, and Legal Studies. Mr. Parker also shared that his favourite subject in high school was Grade 11 Law. He thought that the best thing about being an MCI student was the large variety of clubs and sports teams to join, and mentioned that he loved playing high school sports. One difference that Mr. Parker notices in MCI student life since he attended that the development of technology has become predominant in our life and in the education system. Now that he has become a teacher, his favourite part of it is seeing kids learn in real time and enjoy themselves at school, and he loves to meet new students and have enriching conversations with them about non-academic subjects.
+
+  
+
+Ms. Thomson graduated from Martingrove in 1994. In the past, she has taught Families in Canada, Equity and Social Justice, Pre-AP Psychology, Intro to Social Sciences, Grade 10 History, Ancient Civilizations, Civics, Career Studies, Grade 9 Family Studies, and Grade 9 Math. She had several favourite subjects in high school, including American History, Drama, Band, and Writer’s Craft. Her favourite part about being an MCI student were the extracurriculars, including MSC (Martingrove Stage Company) plays, Concert Band, and sports, especially volleyball. One difference that she noticed in MCI student life since she graduated is cell phones. Now that Ms. Thomson is a teacher, her favourite part is knowing that she has spent nearly her whole life contributing to the amazing community of talented, enthusiastic, and creative Martingrove Bears.
+
+  
+
+Mr. Khadaroo graduated from Martingrove in 1999, in his 5th year of high school when he was 19. This was during the last years that high schools still had a 5th year. In the past, he has taught Business, Marketing, International Business, Law, and Co-op from 2007-2021 primarily at Humberside, as well as one year at North Albion. As a high school student, his favourite subject was business, and his worst subject was science. He also mentioned that he had some wonderful teachers, such as Ms. Woodcock-Ashford in Grade 9, who was kind to him. His favourite part about being an MCI student was the large amount of diversity in culture of student backgrounds, and how MCI academically pushed students. When he attended MCI, the Bears’ Den sold chocolate, the cafeteria had a Tim Hortons, and Pizza Pizza would sell slices everyday at lunch. Students would also play games like cards or dominos at lunch instead of playing on their phone, and lockers were less colourful. Grade 12s had lockers in front of the library. As a teacher, Mr. Khadaroo’s favourite part is getting to know students, teaching them about business, marketing, and advertising, and seeing students demonstrate their learning.
+
+  
+
+Ms. Mavrou graduated from Martingrove in 1990. Some subjects she taught in the past include Science, Biology, Math, and Phys-Ed. As a student, her favourite subject was math, and she loved the amazing opportunities inside and outside the classroom, including playing sports, joining clubs, representing MCI at the OELC, meeting great friends, and creating long lasting friendships. One major change she has noticed in MCI student life since she attended is the use of technology, internet, and smartphones.
+
+  
+
+Our school has been around for a long time, and we don’t have to look farther than the wonderful teachers and vice-principals we have at Martingrove to see how MCI impacts and inspires the many students that have walked its halls.
